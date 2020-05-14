@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteAppRoom</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="_1">1</string>
+    <string name="number">1</string>
+</resources>
